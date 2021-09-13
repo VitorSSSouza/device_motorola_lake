@@ -1,0 +1,10 @@
+#
+# product.prop for lake
+#
+
+# PixelPlusUI OFFICIAL
+ro.ppui.device_name=Moto G7 Plus
+ro.ppui.version=3.9
+ro.ppui.version_code=Eternal
+ro.ppui.is_official=false
+ro.ppui.maintainer_name=VitorSSSouza
